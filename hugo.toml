@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://github.com/ColleusMXO/newatch-blog"
 locale = "ja-JP"
 title = "たちばなこうたろうの寝ワッチ通信"
 theme = "diary"
@@ -10,3 +10,7 @@ theme = "diary"
   
 [markup]
 defaultMarkdownHandler = "goldmark"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
