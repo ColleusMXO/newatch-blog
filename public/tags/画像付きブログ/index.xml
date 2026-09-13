@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>画像付きブログ on たちばなこうたろうの寝ワッチ通信</title>
+		<link>http://localhost:1313/tags/%E7%94%BB%E5%83%8F%E4%BB%98%E3%81%8D%E3%83%96%E3%83%AD%E3%82%B0/</link>
+		<description>Recent content in 画像付きブログ on たちばなこうたろうの寝ワッチ通信</description>
+		<generator>Hugo</generator>
+		<language>ja-JP</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 12 Sep 2026 00:00:00 +0900</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/%E7%94%BB%E5%83%8F%E4%BB%98%E3%81%8D%E3%83%96%E3%83%AD%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>タグのテスト</title>
+				<link>http://localhost:1313/posts/tag_test/</link>
+				<pubDate>Sat, 12 Sep 2026 00:00:00 +0900</pubDate>
+				<guid>http://localhost:1313/posts/tag_test/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;このブログには、船タグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、児童書タグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、女タグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、キャリアタグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、カードタグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、画像付きブログタグが付いています。&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
