@@ -1,0 +1,12 @@
+baseURL = "http://localhost:1313/"
+locale = "ja-JP"
+title = "たちばなこうたろうの寝ワッチ通信"
+theme = "diary"
+
+[params]
+  description = "日記や写真を掲載するブログです。"
+  authorName = "Tachibana"
+  authorEmail = "example@example.com"
+  
+[markup]
+defaultMarkdownHandler = "goldmark"

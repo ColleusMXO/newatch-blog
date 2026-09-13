@@ -1,0 +1,81 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>たちばなこうたろうの寝ワッチ通信</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on たちばなこうたろうの寝ワッチ通信</description>
+    <generator>Hugo -- gohugo.io</generator>
+
+    
+    <language>ja-JP</language>
+    
+
+    
+    <managingEditor>
+      example@example.com (Tachibana)
+    </managingEditor>
+    
+
+    
+    <webMaster>
+      example@example.com (Tachibana)
+    </webMaster>
+    
+
+    
+
+    
+    <lastBuildDate>Thu, 03 Sep 2026 15:18:17 +0900</lastBuildDate>
+    
+
+    
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Thu, 03 Sep 2026 15:18:17 +0900</pubDate>
+
+      
+      <author>
+        example@example.com (Tachibana)
+      </author>
+      
+
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>たちばなこうたろうの寝ワッチ通信 http://localhost:1313/posts/test/ - &lt;p&gt;テスト本文です。&lt;/p&gt;
+&lt;p&gt;これはHugoで作成したテスト記事です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;bold test&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/test/photo1.png&#34; alt=&#34;a&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;photo1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com&#34;&gt;リンクテスト&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;太字テスト&lt;/strong&gt;&lt;/p&gt;
+ - http://localhost:1313/posts/test/ - </description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Markdown Test</title>
+      <link>http://localhost:1313/posts/old_test/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
+
+      
+      <author>
+        example@example.com (Tachibana)
+      </author>
+      
+
+      <guid>http://localhost:1313/posts/old_test/</guid>
+      <description>たちばなこうたろうの寝ワッチ通信 http://localhost:1313/posts/old_test/ - &lt;p&gt;&lt;strong&gt;bold test&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com&#34;&gt;x&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://placehold.co/400x200.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+ - http://localhost:1313/posts/old_test/ - </description>
+    </item>
+    
+    
+  </channel>
+</rss>

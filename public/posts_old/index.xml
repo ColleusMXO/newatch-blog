@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts_olds on たちばなこうたろうの寝ワッチ通信</title>
+		<link>http://localhost:1313/posts_old/</link>
+		<description>Recent content in Posts_olds on たちばなこうたろうの寝ワッチ通信</description>
+		<generator>Hugo</generator>
+		<language>ja-JP</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/posts_old/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>http://localhost:1313/posts_old/first-post/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts_old/first-post/</guid>
+				<description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;はじめての記事&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;date: 2025-04-01&lt;/p&gt;&#xA;&lt;p&gt;draft: false&lt;/p&gt;&#xA;&lt;p&gt;tags:&lt;/p&gt;&#xA;&lt;p&gt;  - 日記&lt;/p&gt;&#xA;&lt;p&gt;  - お知らせ&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;# はじめての記事&lt;/p&gt;&#xA;&lt;p&gt;こんにちは。&lt;/p&gt;&#xA;&lt;p&gt;これは、はじめての記事です。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/posts_old/second-post/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts_old/second-post/</guid>
+				<description>&lt;p&gt;-&amp;ndash;&#xA;date: &amp;lsquo;2026-09-03T14:49:14+09:00&amp;rsquo;&#xA;draft: true&#xA;title: &amp;ldquo;Second Post&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;tags:&lt;/p&gt;&#xA;&lt;p&gt;  - 日記&lt;/p&gt;&#xA;&lt;p&gt;  - お知らせ&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;# ブログを始めました&lt;/p&gt;&#xA;&lt;p&gt;こんにちは。&lt;/p&gt;&#xA;&lt;p&gt;今日から自分のブログを始めました。&lt;/p&gt;&#xA;&lt;p&gt;## 今日やったこと&lt;/p&gt;&#xA;&lt;p&gt;- Hugoを設定した&lt;/p&gt;&#xA;&lt;p&gt;- Anankeテーマを導入した&lt;/p&gt;&#xA;&lt;p&gt;- 最初の記事を書いた&lt;/p&gt;&#xA;&lt;p&gt;これから少しずつ記事を増やしていきます。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/posts_old/third-post/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts_old/third-post/</guid>
+				<description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;title: &amp;ldquo;テスト記事&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;ndash;&lt;/p&gt;&#xA;&lt;p&gt;テスト本文です。&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
