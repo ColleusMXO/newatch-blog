@@ -1,10 +1,10 @@
-baseURL = "https://github.com/ColleusMXO/newatch-blog"
+baseURL = "https://github.com/ColleusMXO/newatch-blog/"
 locale = "ja-JP"
 title = "たちばなこうたろうの寝ワッチ通信"
 theme = "diary"
 
 [params]
-  description = "日記や写真を掲載するブログです。"
+  description = "船での生活や作家活動について掲載するブログです。2週間のディレイがあります。"
   authorName = "Tachibana"
   authorEmail = "example@example.com"
   

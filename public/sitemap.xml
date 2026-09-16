@@ -2,45 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/ColleusMXO/newatch-blog/posts/</loc>
     <lastmod>2026-09-13T12:46:17+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/ColleusMXO/newatch-blog/</loc>
     <lastmod>2026-09-13T12:46:17+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/koukai_dekita/</loc>
+    <loc>http://localhost:1313/ColleusMXO/newatch-blog/posts/20260915/</loc>
     <lastmod>2026-09-13T12:46:17+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-09-12T00:00:00+09:00</lastmod>
+    <loc>http://localhost:1313/ColleusMXO/newatch-blog/tags/</loc>
+    <lastmod>2026-09-01T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E3%82%AB%E3%83%BC%E3%83%89/</loc>
-    <lastmod>2026-09-12T00:00:00+09:00</lastmod>
+    <loc>http://localhost:1313/ColleusMXO/newatch-blog/tags/%E3%81%8A%E9%87%91/</loc>
+    <lastmod>2026-09-01T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2/</loc>
-    <lastmod>2026-09-12T00:00:00+09:00</lastmod>
+    <loc>http://localhost:1313/ColleusMXO/newatch-blog/posts/20260916/</loc>
+    <lastmod>2026-09-01T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tag_test/</loc>
-    <lastmod>2026-09-12T00:00:00+09:00</lastmod>
+    <loc>http://localhost:1313/ColleusMXO/newatch-blog/tags/%E8%88%B9/</loc>
+    <lastmod>2026-09-01T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E5%85%90%E7%AB%A5%E6%9B%B8/</loc>
-    <lastmod>2026-09-12T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E5%A5%B3/</loc>
-    <lastmod>2026-09-12T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E7%94%BB%E5%83%8F%E4%BB%98%E3%81%8D%E3%83%96%E3%83%AD%E3%82%B0/</loc>
-    <lastmod>2026-09-12T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E8%88%B9/</loc>
-    <lastmod>2026-09-12T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
-    <lastmod>2026-09-03T15:18:17+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/old_test/</loc>
-    <lastmod>2025-01-01T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/ColleusMXO/newatch-blog/categories/</loc>
   </url>
 </urlset>

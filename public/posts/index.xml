@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on たちばなこうたろうの寝ワッチ通信</title>
-		<link>http://localhost:1313/posts/</link>
+		<link>http://localhost:1313/ColleusMXO/newatch-blog/posts/</link>
 		<description>Recent content in Posts on たちばなこうたろうの寝ワッチ通信</description>
 		<generator>Hugo</generator>
 		<language>ja-JP</language>
@@ -12,34 +12,20 @@
 		
 			<lastBuildDate>Sun, 13 Sep 2026 12:46:17 +0900</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/ColleusMXO/newatch-blog/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>公開できていますか？</title>
-				<link>http://localhost:1313/posts/koukai_dekita/</link>
+				<link>http://localhost:1313/ColleusMXO/newatch-blog/posts/20260915/</link>
 				<pubDate>Sun, 13 Sep 2026 12:46:17 +0900</pubDate>
-				<guid>http://localhost:1313/posts/koukai_dekita/</guid>
+				<guid>http://localhost:1313/ColleusMXO/newatch-blog/posts/20260915/</guid>
 				<description>&lt;p&gt;ブログ公開が出来たのではないかと思います。どうでしょう？&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>タグのテスト</title>
-				<link>http://localhost:1313/posts/tag_test/</link>
-				<pubDate>Sat, 12 Sep 2026 00:00:00 +0900</pubDate>
-				<guid>http://localhost:1313/posts/tag_test/</guid>
-				<description>&lt;p&gt;&lt;strong&gt;このブログには、船タグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、児童書タグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、女タグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、キャリアタグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、カードタグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、画像付きブログタグが付いています。&lt;/strong&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Test</title>
-				<link>http://localhost:1313/posts/test/</link>
-				<pubDate>Thu, 03 Sep 2026 15:18:17 +0900</pubDate>
-				<guid>http://localhost:1313/posts/test/</guid>
-				<description>&lt;p&gt;テスト本文です。&lt;/p&gt;&#xA;&lt;p&gt;これはHugoで作成したテスト記事です。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;bold test&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/test/photo1.png&#34; alt=&#34;a&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;photo1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://example.com&#34;&gt;リンクテスト&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;太字テスト&lt;/strong&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Markdown Test</title>
-				<link>http://localhost:1313/posts/old_test/</link>
-				<pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
-				<guid>http://localhost:1313/posts/old_test/</guid>
-				<description>&lt;p&gt;&lt;strong&gt;bold test&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://example.com&#34;&gt;x&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://placehold.co/400x200.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+				<title>第一航海の仕込み決算</title>
+				<link>http://localhost:1313/ColleusMXO/newatch-blog/posts/20260916/</link>
+				<pubDate>Tue, 01 Sep 2026 00:00:00 +0900</pubDate>
+				<guid>http://localhost:1313/ColleusMXO/newatch-blog/posts/20260916/</guid>
+				<description>&lt;p&gt;新しい仕事は高給取りとは言いにくい仕事です。なので、そろそろ、お金を計算しないとなと思って計算してみる。&#xA;&lt;strong&gt;仕込みで使ったお金を計算してみた。&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;食事手当４食分+2000円&lt;/li&gt;&#xA;&lt;li&gt;兄への誕生日プレゼントギフト-1000円&lt;/li&gt;&#xA;&lt;li&gt;電源コードライトニング-1750円&lt;/li&gt;&#xA;&lt;li&gt;ノドグロ4貫-486円&lt;/li&gt;&#xA;&lt;li&gt;穴キュウ巻き-378円&lt;/li&gt;&#xA;&lt;li&gt;パッツァフラスク（果実酒）200ml-935円&lt;/li&gt;&#xA;&lt;li&gt;電気ケトル-2980円&lt;/li&gt;&#xA;&lt;li&gt;敷布団洗濯バスケット枕マグカップ-6687円&lt;/li&gt;&#xA;&lt;li&gt;マグネット、懐中電灯、マグネット、電池-440円&lt;/li&gt;&#xA;&lt;li&gt;カップ、おちょこ、本立て、ペン立て-555円&lt;/li&gt;&#xA;&lt;li&gt;シーチキン、缶ジュース、ポテトチップス、チョコ、寿司とパン、ヨーグルト-4532円&lt;/li&gt;&#xA;&lt;li&gt;コーヒーカップとアイス-520円  &lt;!-- raw HTML omitted --&gt;&#xA;累計-18263円の支出でした。&#xA;ケトルと布団の9667円を除くと、毎回8596円ほど仕込みに必要なのかなと思います。&#xA;次回の停泊時のお金も計算して、比較してみたいです。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;IMG_6407.jpg&#34; alt=&#34;買ってみたお酒&#34;&gt;&#xA;買ったお酒をあっためたお湯で割って飲んでみた。このあと、おちょこは落として、割った。船に陶器はだめですね。&#xA;相変わらず、エンミックスの動画を見ています。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;git add .&lt;/li&gt;&#xA;&lt;li&gt;git commit -m &amp;ldquo;Add new post&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;git push&#xA;この呪文で、記事を更新します。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>
