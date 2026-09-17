@@ -36,7 +36,7 @@
     
     <item>
       <title>公開できていますか？</title>
-      <link>http://localhost:1313/ColleusMXO/newatch-blog/posts/20260915/</link>
+      <link>http://localhost:1313/ColleusMXO/newatch-blog/posts/koukai_dekita/</link>
       <pubDate>Sun, 13 Sep 2026 12:46:17 +0900</pubDate>
 
       
@@ -45,9 +45,76 @@
       </author>
       
 
-      <guid>http://localhost:1313/ColleusMXO/newatch-blog/posts/20260915/</guid>
-      <description>たちばなこうたろうの寝ワッチ通信 http://localhost:1313/ColleusMXO/newatch-blog/posts/20260915/ - &lt;p&gt;ブログ公開が出来たのではないかと思います。どうでしょう？&lt;/p&gt;
- - http://localhost:1313/ColleusMXO/newatch-blog/posts/20260915/ - </description>
+      <guid>http://localhost:1313/ColleusMXO/newatch-blog/posts/koukai_dekita/</guid>
+      <description>たちばなこうたろうの寝ワッチ通信 http://localhost:1313/ColleusMXO/newatch-blog/posts/koukai_dekita/ - &lt;p&gt;ブログ公開が出来たのではないかと思います。どうでしょう？&lt;/p&gt;
+ - http://localhost:1313/ColleusMXO/newatch-blog/posts/koukai_dekita/ - </description>
+    </item>
+    
+    
+    
+    <item>
+      <title>タグのテスト</title>
+      <link>http://localhost:1313/ColleusMXO/newatch-blog/posts/tag_test/</link>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0900</pubDate>
+
+      
+      <author>
+        example@example.com (Tachibana)
+      </author>
+      
+
+      <guid>http://localhost:1313/ColleusMXO/newatch-blog/posts/tag_test/</guid>
+      <description>たちばなこうたろうの寝ワッチ通信 http://localhost:1313/ColleusMXO/newatch-blog/posts/tag_test/ - &lt;p&gt;&lt;strong&gt;このブログには、船タグが付いています。&lt;/strong&gt;
+&lt;strong&gt;このブログには、児童書タグが付いています。&lt;/strong&gt;
+&lt;strong&gt;このブログには、女タグが付いています。&lt;/strong&gt;
+&lt;strong&gt;このブログには、キャリアタグが付いています。&lt;/strong&gt;
+&lt;strong&gt;このブログには、カードタグが付いています。&lt;/strong&gt;
+&lt;strong&gt;このブログには、画像付きブログタグが付いています。&lt;/strong&gt;&lt;/p&gt;
+ - http://localhost:1313/ColleusMXO/newatch-blog/posts/tag_test/ - </description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/ColleusMXO/newatch-blog/posts/test/</link>
+      <pubDate>Thu, 03 Sep 2026 15:18:17 +0900</pubDate>
+
+      
+      <author>
+        example@example.com (Tachibana)
+      </author>
+      
+
+      <guid>http://localhost:1313/ColleusMXO/newatch-blog/posts/test/</guid>
+      <description>たちばなこうたろうの寝ワッチ通信 http://localhost:1313/ColleusMXO/newatch-blog/posts/test/ - &lt;p&gt;テスト本文です。&lt;/p&gt;
+&lt;p&gt;これはHugoで作成したテスト記事です。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;bold test&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/test/photo1.png&#34; alt=&#34;a&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;photo1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com&#34;&gt;リンクテスト&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;太字テスト&lt;/strong&gt;&lt;/p&gt;
+ - http://localhost:1313/ColleusMXO/newatch-blog/posts/test/ - </description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Markdown Test</title>
+      <link>http://localhost:1313/ColleusMXO/newatch-blog/posts/old_test/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
+
+      
+      <author>
+        example@example.com (Tachibana)
+      </author>
+      
+
+      <guid>http://localhost:1313/ColleusMXO/newatch-blog/posts/old_test/</guid>
+      <description>たちばなこうたろうの寝ワッチ通信 http://localhost:1313/ColleusMXO/newatch-blog/posts/old_test/ - &lt;p&gt;&lt;strong&gt;bold test&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com&#34;&gt;x&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://placehold.co/400x200.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+ - http://localhost:1313/ColleusMXO/newatch-blog/posts/old_test/ - </description>
     </item>
     
     
