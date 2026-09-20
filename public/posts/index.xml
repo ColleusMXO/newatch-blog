@@ -28,25 +28,11 @@
 				<description>&lt;p&gt;&lt;strong&gt;このブログには、船タグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、児童書タグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、女タグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、キャリアタグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、カードタグが付いています。&lt;/strong&gt;&#xA;&lt;strong&gt;このブログには、画像付きブログタグが付いています。&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Test</title>
-				<link>http://localhost:1313/ColleusMXO/newatch-blog/posts/test/</link>
-				<pubDate>Thu, 03 Sep 2026 15:18:17 +0900</pubDate>
-				<guid>http://localhost:1313/ColleusMXO/newatch-blog/posts/test/</guid>
-				<description>&lt;p&gt;テスト本文です。&lt;/p&gt;&#xA;&lt;p&gt;これはHugoで作成したテスト記事です。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;bold test&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/test/photo1.png&#34; alt=&#34;a&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;photo1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://example.com&#34;&gt;リンクテスト&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;太字テスト&lt;/strong&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>はじめてのお仕事</title>
-				<link>http://localhost:1313/ColleusMXO/newatch-blog/posts/20261002/</link>
-				<pubDate>Wed, 02 Sep 2026 00:00:00 +0900</pubDate>
-				<guid>http://localhost:1313/ColleusMXO/newatch-blog/posts/20261002/</guid>
-				<description>&lt;p&gt;今日は出港日でした。&lt;!-- raw HTML omitted --&gt;&#xA;出船の仕事は15分で終わり、主機をみんなでかけて、9時30ごろから、15時30ごろまでワッチをしました。&lt;!-- raw HTML omitted --&gt;&#xA;基本的には防音の効いている、監視室にいるので、同僚との、おしゃべりを楽しめました。&lt;!-- raw HTML omitted --&gt;&#xA;一人でワッチを取れるようになれば、12時間休憩が取れるそうですが、いまは3交代制で8時間休憩。朝から夕方まで見習いで、同僚と一緒に仕事をしています。&lt;!-- raw HTML omitted --&gt;&#xA;主機や補器がどれかくらいは、分かるようになりましたが、ゲージや計器についてはどれがどれかまだわかりません。毎日３－４回は、一緒にやれそうなので、すぐに覚えられるのではないかと思っています。&lt;!-- raw HTML omitted --&gt;&#xA;&lt;strong&gt;操練では、ビーム発射した&lt;/strong&gt;&#xA;私が乗っている船には、ビームが搭載されているのですが、それを使う時には、補器や専用の機械も起動しないと動かせないみたいです。&lt;!-- raw HTML omitted --&gt;&#xA;ゲームやアニメだと、ビームはボタン一つで打てるイメージでしたが、実際には中で機械を始動・停止させる人がいないと、ダメみたいです。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Markdown Test</title>
-				<link>http://localhost:1313/ColleusMXO/newatch-blog/posts/old_test/</link>
-				<pubDate>Wed, 01 Jan 2025 00:00:00 +0900</pubDate>
-				<guid>http://localhost:1313/ColleusMXO/newatch-blog/posts/old_test/</guid>
-				<description>&lt;p&gt;&lt;strong&gt;bold test&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://example.com&#34;&gt;x&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://placehold.co/400x200.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+				<title>船乗りになって起きたこと2</title>
+				<link>http://localhost:1313/ColleusMXO/newatch-blog/posts/20261004_2/</link>
+				<pubDate>Fri, 04 Sep 2026 00:00:02 +0900</pubDate>
+				<guid>http://localhost:1313/ColleusMXO/newatch-blog/posts/20261004_2/</guid>
+				<description>&lt;p&gt;今日は、余裕があるので、もう一つ記事を書いて寝ようと思います。&lt;br&gt;&#xA;船乗りになろうと思って起きたことで、面白かったことの一つは第８豊清丸事件です。&lt;br&gt;&#xA;大学４年生の12月ごろに伊野水産と連絡を取り、第８豊清丸への乗船手続きが進んでいました。&lt;br&gt;&#xA;清水港にて、荷揚げと船内の見学もしました。&lt;br&gt;&#xA;しかし、出港時期が3月のはじめと分かり、乗船を決意すれば、大学生として、卒業式に出席することができなくなると分かりました。&lt;br&gt;&#xA;さらに、伊野水産から12月20日ごろ、「数日以内に乗船意思を確定させてください。」と連絡が来ました。&lt;br&gt;&#xA;そこで、私は教員免許を取れるかどうかという単位が出ていなかったのもあり、乗船を辞退することにしました。&lt;br&gt;&#xA;それだけで終われば、普通の話なんですが、凄いことが起きました。&lt;br&gt;&#xA;卒業式が近づいてきた大学4年生の3月、第８豊清丸が太平洋で漂流していた。というニュースを目にしました。&lt;br&gt;&#xA;&lt;img src=&#34;https://newsdig.ismcdn.jp/mwimgs/3/0/1360mw/img_30e246eb89a16234d7f9c8d9f4dbfb7952934.jpg&#34; alt=&#34;漂流した場所&#34;&gt;&#xA;マグロ漁船史上でも珍しい完全ブラックアウト事件です。発電機が主機も補機も故障したようです。&lt;br&gt;&#xA;もし、私がこの船に乗っていれば、私は太平洋で電気が止まり漂流するという怖い思いをしていたのだろうと思いました。&lt;br&gt;&#xA;さらに、この船の呪いは止まらず、漂流していた船を連れて帰ってきた海上保安庁の牽引船「ざおう」が、油補給中に流出事件を起こし、養殖業などを中心に6億円の損害を出しました。&lt;br&gt;&#xA;伊野水産での仕事がなくなった時は、卒業後の進路がなくなったかのように思い、辛いと思いましたが、ニュースを見てから考えが変わり、塞翁が馬だと思いました。&#xA;また、何かが出来なかったとき、別の危険を避けることが出来たのだろう。と思えるようになりました。&#xA;そして、私が船乗りになろうと思うだけで、こんな世界が動くなんて面白いなぁと思いました。&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
