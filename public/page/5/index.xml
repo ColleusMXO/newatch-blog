@@ -1,0 +1,60 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>たちばなこうたろうの寝ワッチ通信</title>
+    <link>http://localhost:1313/ColleusMXO/newatch-blog/</link>
+    <description>Recent content on たちばなこうたろうの寝ワッチ通信</description>
+    <generator>Hugo -- gohugo.io</generator>
+
+    
+    <language>ja-JP</language>
+    
+
+    
+    <managingEditor>
+      example@example.com (Tachibana)
+    </managingEditor>
+    
+
+    
+    <webMaster>
+      example@example.com (Tachibana)
+    </webMaster>
+    
+
+    
+
+    
+    <lastBuildDate>Thu, 05 Nov 2026 00:00:00 +0900</lastBuildDate>
+    
+
+    
+    <atom:link href="http://localhost:1313/ColleusMXO/newatch-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+
+    
+    
+    <item>
+      <title>タグのテスト</title>
+      <link>http://localhost:1313/ColleusMXO/newatch-blog/posts/tag_test/</link>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0900</pubDate>
+
+      
+      <author>
+        example@example.com (Tachibana)
+      </author>
+      
+
+      <guid>http://localhost:1313/ColleusMXO/newatch-blog/posts/tag_test/</guid>
+      <description>たちばなこうたろうの寝ワッチ通信 http://localhost:1313/ColleusMXO/newatch-blog/posts/tag_test/ - &lt;p&gt;&lt;strong&gt;このブログには、船タグが付いています。&lt;/strong&gt;
+&lt;strong&gt;このブログには、児童書タグが付いています。&lt;/strong&gt;
+&lt;strong&gt;このブログには、女タグが付いています。&lt;/strong&gt;
+&lt;strong&gt;このブログには、キャリアタグが付いています。&lt;/strong&gt;
+&lt;strong&gt;このブログには、カードタグが付いています。&lt;/strong&gt;
+&lt;strong&gt;このブログには、画像付きブログタグが付いています。&lt;/strong&gt;&lt;/p&gt;
+ - http://localhost:1313/ColleusMXO/newatch-blog/posts/tag_test/ - </description>
+    </item>
+    
+    
+  </channel>
+</rss>
