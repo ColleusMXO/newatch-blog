@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ColleusMXO/newatch-blog/posts/20261105/</loc>
-    <lastmod>2026-11-05T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/ColleusMXO/newatch-blog/posts/</loc>
-    <lastmod>2026-11-05T00:00:00+09:00</lastmod>
+    <lastmod>2026-11-07T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ColleusMXO/newatch-blog/tags/</loc>
-    <lastmod>2026-11-05T00:00:00+09:00</lastmod>
+    <lastmod>2026-11-07T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ColleusMXO/newatch-blog/</loc>
-    <lastmod>2026-11-05T00:00:00+09:00</lastmod>
+    <lastmod>2026-11-07T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ColleusMXO/newatch-blog/tags/%E4%BB%95%E4%BA%8B/</loc>
-    <lastmod>2026-11-05T00:00:00+09:00</lastmod>
+    <lastmod>2026-11-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ColleusMXO/newatch-blog/posts/20261107/</loc>
+    <lastmod>2026-11-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ColleusMXO/newatch-blog/posts/20261108/</loc>
+    <lastmod>2026-11-07T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ColleusMXO/newatch-blog/tags/%E8%88%B9/</loc>
+    <lastmod>2026-11-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ColleusMXO/newatch-blog/posts/20261106/</loc>
+    <lastmod>2026-11-06T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ColleusMXO/newatch-blog/posts/20261105/</loc>
     <lastmod>2026-11-05T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ColleusMXO/newatch-blog/posts/20261104/</loc>
