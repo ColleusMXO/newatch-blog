@@ -41,6 +41,7 @@ jobs:
           mkdir -p "$RUNNER_TEMP/dart-sass-bin"
           ln -sf "$(command -v sass)" "$RUNNER_TEMP/dart-sass-bin/dart-sass"
           echo "$RUNNER_TEMP/dart-sass-bin" >> "$GITHUB_PATH"
+          export PATH="$RUNNER_TEMP/dart-sass-bin:$PATH"
           dart-sass --version
 
       - name: Setup Hugo
