@@ -4,9 +4,9 @@ title = "たちばなこうたろうの寝ワッチ通信"
 theme = "diary"
 
 [params]
-  description = "船での生活や作家活動について掲載するブログです。2週間のディレイがあります。"
+  description = "船での生活や作家活動について掲載するブログです。約2週間のディレイがあります。"
   authorName = "Tachibana"
-  authorEmail = "example@example.com"
+  authorEmail = "urado68@gmail.com"
   
 [markup]
 defaultMarkdownHandler = "goldmark"
@@ -14,3 +14,8 @@ defaultMarkdownHandler = "goldmark"
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+[[menus.main]]
+name = "検索"
+pageRef = "/search"
+weight = 50
