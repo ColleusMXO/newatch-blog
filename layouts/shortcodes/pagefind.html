@@ -1,0 +1,14 @@
+<link href="{{ "_pagefind/pagefind-ui.css" | relURL }}" rel="stylesheet">
+
+<div id="search"></div>
+
+<script src="{{ "_pagefind/pagefind-ui.js" | relURL }}"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", () => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      bundlePath: "{{ "_pagefind/" | relURL }}"
+    });
+  });
+</script>
